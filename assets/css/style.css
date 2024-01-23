@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+}
+.custom-logo{
+  width: 150px;
+  height: 70px;
+}
+.marker {
+  /* background-image: url('https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png'); */
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border:2px solid blue;
+  cursor: pointer;
+  background-color:#fff;
+  text-align: center;
+  font-size: 1.2rem;
+  padding-top: 2px;
+  font-weight: 900;
+}
+.mapboxgl-popup {
+  max-width: 150px;
+}
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+.mapbox-improve-map {
+  display: none;
+}
+footer{
+  position: absolute;
+  bottom: 10px;
+}
+footer p a{
+  text-decoration: none;
+}
+.foot-icon{
+  width: 22px;
+  height: 22px;
+}

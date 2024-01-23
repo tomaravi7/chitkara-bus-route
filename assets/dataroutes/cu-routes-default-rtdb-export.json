@@ -1,0 +1,234 @@
+{
+  "route": {
+    "amit_kumar_": {
+      "R 42": {
+        "-N2P3V2g8hr6g_ZGVQEP": {
+          "coordinate": {
+            "lat": 30.3404806,
+            "long": 76.3669233
+          },
+          "name": "23 no. phatak"
+        },
+        "-N2P4bkMI4PLuYmWBSOR": {
+          "coordinate": {
+            "lat": 30.3407675,
+            "long": 76.3597119
+          },
+          "name": "Gopal sweets"
+        },
+        "-N2P564B0dSu4q8Y7GS3": {
+          "coordinate": {
+            "lat": 30.3431826,
+            "long": 76.3930982
+          },
+          "name": "21 No. Lights"
+        },
+        "-N2P73XKIO_aFSQTXRvJ": {
+          "coordinate": {
+            "lat": 30.3401079,
+            "long": 76.4319042
+          },
+          "name": "Chaura Moad"
+        },
+        "-N2QyyHVZsTQykvBEf6i": {
+          "coordinate": {
+            "lat": 30.5158619,
+            "long": 76.6578691
+          },
+          "name": "Chitkara University "
+        },
+        "-N2UChO4FrUOlLP_rz5m": {
+          "coordinate": {
+            "lat": 30.3400322,
+            "long": 76.3599153
+          },
+          "name": "Patiala Cantt station"
+        }
+      }
+    },
+    "jagdeep_sharma_": {
+      "R43": {
+        "-N2P3gz9RsK3p790Gdo-": {
+          "coordinate": {
+            "lat": 30.3172716,
+            "long": 76.3948961
+          },
+          "name": "RAGHO MAJRA"
+        },
+        "-N2P42hhZe12S7KiGPII": {
+          "coordinate": {
+            "lat": 30.3133622,
+            "long": 76.3959603
+          },
+          "name": "NIS"
+        },
+        "-N2P4SlxXGxoXeq036G_": {
+          "coordinate": {
+            "lat": 30.3147004,
+            "long": 76.3899767
+          },
+          "name": "New  Moti Bagh"
+        },
+        "-N2P4sy9Y7Y2vKlQdQvj": {
+          "coordinate": {
+            "lat": 30.3167922,
+            "long": 76.3848998
+          },
+          "name": "Officers Colony"
+        },
+        "-N2P5IrOikiLPny9SMfh": {
+          "coordinate": {
+            "lat": 30.3211106,
+            "long": 76.3828212
+          },
+          "name": "YPS Chowk"
+        },
+        "-N2P5ojS_UVIWSOKglQX": {
+          "coordinate": {
+            "lat": 30.3222815,
+            "long": 76.3927468
+          },
+          "name": "Modi College Chowk"
+        },
+        "-N2P60VCTbde8A5ZmgDR": {
+          "coordinate": {
+            "lat": 30.3256629,
+            "long": 76.3921334
+          },
+          "name": "Sai Market"
+        },
+        "-N2P6LRro4m7BIBkRcF6": {
+          "coordinate": {
+            "lat": 30.3252001,
+            "long": 76.3895622
+          },
+          "name": "Polo Ground"
+        },
+        "-N2P6oIGEcu_3sKhb3I3": {
+          "coordinate": {
+            "lat": 30.3311724,
+            "long": 76.3889517
+          },
+          "name": "Fountain chowk "
+        },
+        "-N2PASRi6yVcq5MaR0dC": {
+          "coordinate": {
+            "lat": 30.3565059,
+            "long": 76.4552839
+          },
+          "name": "Punjabi University"
+        }
+      }
+    },
+    "rubina_": {
+      "Patiala": {
+        "-N2UJ8fGhfOT6S47j70y": {
+          "coordinate": {
+            "lat": 30.3661372,
+            "long": 76.4676958
+          },
+          "name": "Sirhindi gate"
+        },
+        "-N2UJAHiMvx0Vg1mWC0C": {
+          "coordinate": {
+            "lat": 30.3661372,
+            "long": 76.4676958
+          },
+          "name": "Lakkad Mandi"
+        }
+      }
+    },
+    "shawinder_pal_singh": {
+      "R48": {
+        "-N2LqnzNg_UTlz8o33oX": {
+          "coordinate": {
+            "lat": 30.5174613,
+            "long": 76.6584599
+          },
+          "name": "Chitkara University"
+        },
+        "-N2Lwd0bS1BNBcYGKMTv": {
+          "coordinate": {
+            "lat": 30.4159055,
+            "long": 76.5244361
+          },
+          "name": "Muradpur"
+        },
+        "-N2LytDkZMh0wlWgZUHn": {
+          "coordinate": {
+            "lat": 30.378289,
+            "long": 76.4726307
+          },
+          "name": "Bahadurgarh (Gotze india Ltd.)"
+        },
+        "-N2M-jIItIJkNhqXzfAn": {
+          "coordinate": {
+            "lat": 30.3566547,
+            "long": 76.455413
+          },
+          "name": "Radha Swami Satsang"
+        },
+        "-N2M19gsT9JF4LN1gR7c": {
+          "coordinate": {
+            "lat": 30.3530445,
+            "long": 76.4272035
+          },
+          "name": "Virk Colony ( River Bridge)"
+        },
+        "-N2M1o4FMN5URXw4W8W8": {
+          "coordinate": {
+            "lat": 30.362812,
+            "long": 76.4178333
+          },
+          "name": "P.L.W. (DMW) Flyover"
+        }
+      }
+    },
+    "vinay_gautam": {
+      "R41": {
+        "-N2LoKGoXmoNduMeVgUU": {
+          "coordinate": {
+            "lat": 30.514781,
+            "long": 76.6599739
+          },
+          "name": "Chitkara university"
+        },
+        "-N2M1X1x-JE002pm5FFU": {
+          "coordinate": {
+            "lat": 30.3713792,
+            "long": 76.4039655
+          },
+          "name": "Sirhind bypass"
+        },
+        "-N2M1slP6_5F_G3t6rzg": {
+          "coordinate": {
+            "lat": 30.3684334,
+            "long": 76.4021072
+          },
+          "name": "Sunrise hotel"
+        },
+        "-N2M2EU0FNyHNVmw-YdQ": {
+          "coordinate": {
+            "lat": 30.361567,
+            "long": 76.4032097
+          },
+          "name": "Petrol pump"
+        },
+        "-N2M2pcbbSl65SOo5mce": {
+          "coordinate": {
+            "lat": 30.3531043,
+            "long": 76.3989213
+          },
+          "name": "DLF COLONEY "
+        },
+        "-N2M3BHvKGkBZb9fWLpU": {
+          "coordinate": {
+            "lat": 30.3552291,
+            "long": 76.3940921
+          },
+          "name": "Kohali sweet"
+        }
+      }
+    }
+  }
+}

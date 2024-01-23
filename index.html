@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8' />
+    <title>Chitkara Bus Route</title>
+    <link rel="shortcut icon" href="./assets/images/favicon.png" type="image/x-icon">
+    <meta name='viewport' content='width=device-width, initial-scale=1' />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js'></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css' rel='stylesheet' />
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+      <a class="btn btn-danger m-4" id="routenumber" data-bs-toggle="offcanvas" href="#offcanvasExample"  role="button" aria-controls="offcanvasExample">
+        Change Route 
+      </a>
+      <a onclick="fly_to_home()" class="btn btn-danger m-4">
+        Go to Chitkara
+      </a>
+      <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+        <div class="offcanvas-header">
+          <img src="./assets/images/logo high.jpg" style="border: none;" class="img-thumbnail offcanvas-title custom-logo" alt="logo"><br><br>
+          <h5 class="offcanvas-body" id="offcanvasExampleLabel">
+             Route
+            </h5>
+          <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          <div>
+            Select a route form the following
+          </div>
+          <div class="dropdown mt-3">
+            <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown">
+              Select route
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <li><a class="dropdown-item" onclick="routenum(1)" href="#">Route 1</a></li>
+              <li><a class="dropdown-item" onclick="routenum(2)" href="#">Route 2</a></li>
+              <li><a class="dropdown-item" onclick="routenum(3)" href="#">Route 3</a></li>
+              <li><a class="dropdown-item" onclick="routenum(52)" href="#">Route 52</a></li>
+              <li><a class="dropdown-item" onclick="routenum(65)" href="#">Route 65</a></li>
+              <li><a class="dropdown-item" onclick="routenum(42)" href="#">Route 42</a></li>
+              <li><a class="dropdown-item" onclick="routenum(43)" href="#">Route 43</a></li>
+              <li><a class="dropdown-item" onclick="routenum(48)" href="#">Route 48</a></li>
+              <li><a class="dropdown-item" onclick="routenum(41)" href="#">Route 41</a></li>
+            </ul>
+          </div>
+          <div class="p-2"></div>
+          <a href="./meLocation.html" class="btn btn-danger">Track Me</a>
+        </div>
+        <footer>
+          <p>Made By <a href="https://github.com/tomaravi7"><b>Avi Tomar <img class="foot-icon" src="./assets/images/GitHub-Mark-32px.png"></b> </a> and <a href="https://github.com/DEV-AKARSH"><b>Akarsh Anand Sinha  <img class="foot-icon" src="./assets/images/GitHub-Mark-32px.png"></b></a></p>
+        </footer>
+      </div>
+
+<div id='map'></div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<script src="./assets/js/start.js"></script>
+<script src="./assets/js/marker.js"></script>
+<script src="./assets/js/lines.js"></script>
+<script src="./assets/js/jsonwork.js"></script>
+<!-- <script src="./assets/dataroutes/route52.geojson"></script> -->
+
+</body>
+</html>
